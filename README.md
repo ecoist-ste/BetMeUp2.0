@@ -13,7 +13,8 @@ https://github.com/user-attachments/assets/1588012c-5c2d-41b5-aa85-1664e42dbf64
 - See other people's bets and join if you like
 - Leaderboard shows everybody's bets history and current virtual money amount ## How we built it SwiftUI
 
-## Challenges we ran into Ran out of time to finish backend and some features we wanted to implement 
+## Challenges we ran into 
+Ran out of time to finish backend and some features we wanted to implement 
 
 ## Accomplishments that we're proud of 
 We used Path and Shape to draw some pesudo 3d objects in Swift and that's so cool!
