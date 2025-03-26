@@ -1,4 +1,5 @@
 # BetMeUp2.0 (GT iOS Hackathon Fall 2024 2nd Place) 
+You can view our submission to Devpost at: https://devpost.com/software/betmeup
 ## Inspiration
 My friend Max told me that he betted with his friend on his friend being able to find a girlfriend in a semester with 100 dollars at stake. And I feel like friends make bets all the time. So why not just make a wager app where you can make a bet on everything with virtual money?
 
